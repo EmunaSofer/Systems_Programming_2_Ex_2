@@ -52,9 +52,9 @@ After downloading all the files, run the following commands in your terminal:
 
 - **SquareMat operator-(const SquareMat& other)** - Subtracts two matrices.
 
-- **SquareMat operator* (const SquareMat& other)** - Multiplies two matrices.
+- **SquareMat operator * (const SquareMat& other)** - Multiplies two matrices.
 
-- **SquareMat operator* (int scalar)** - Multiplies the matrix by a scalar value.
+- **SquareMat operator * (int scalar)** - Multiplies the matrix by a scalar value.
 
 - **SquareMat operator%(int mod)** - Applies modulo operation element-wise on the matrix.
 
